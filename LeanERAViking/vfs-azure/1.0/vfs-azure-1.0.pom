@@ -6,4 +6,12 @@
   <artifactId>vfs-azure</artifactId>
   <version>1.0</version>
   <description>POM was created from install:install-file</description>
+
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub LeanERA Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+   </repository>
+</distributionManagement>
 </project>
