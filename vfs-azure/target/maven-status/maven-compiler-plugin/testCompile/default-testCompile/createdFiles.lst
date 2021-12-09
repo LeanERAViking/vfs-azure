@@ -1,0 +1,4 @@
+com\sludev\commons\vfs2\provider\azure\AzFileProviderTest.class
+com\sludev\commons\vfs2\provider\azure\AzTestWatcher.class
+com\sludev\commons\vfs2\provider\azure\AzTestProperties.class
+com\sludev\commons\vfs2\provider\azure\AzTestUtils.class
