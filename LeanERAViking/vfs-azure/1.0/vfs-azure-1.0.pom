@@ -11,7 +11,7 @@
    <repository>
      <id>github</id>
      <name>GitHub LeanERA Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+     <url>https://maven.pkg.github.com/LeanERAViking/vfs-azure</url>
    </repository>
 </distributionManagement>
 </project>
