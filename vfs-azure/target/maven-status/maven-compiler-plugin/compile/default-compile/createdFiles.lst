@@ -1,6 +1,0 @@
-com\sludev\commons\vfs2\provider\azure\AzFileNameParser.class
-com\sludev\commons\vfs2\provider\azure\AzConstants.class
-com\sludev\commons\vfs2\provider\azure\AzFileProvider.class
-com\sludev\commons\vfs2\provider\azure\AzFileSystemConfigBuilder.class
-com\sludev\commons\vfs2\provider\azure\AzFileObject.class
-com\sludev\commons\vfs2\provider\azure\AzFileSystem.class
